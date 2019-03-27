@@ -1,0 +1,24 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Amazon-like storefront using mysql",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emersonscheffer/Bamazon.git"
+  },
+  "author": "Emerson Scheffer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emersonscheffer/Bamazon/issues"
+  },
+  "homepage": "https://github.com/emersonscheffer/Bamazon#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^6.2.2",
+    "mysql": "^2.16.0"
+  }
+}
